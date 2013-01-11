@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1316787369 source:c:\users\vaderas\ypologismos_tokwn\ypologismos_tokwn\tokoi.c
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<assert.h>
+
