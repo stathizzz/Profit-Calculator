@@ -1,0 +1,8 @@
+MIDlet-1: HelloMIDlet, , hello.HelloMIDlet
+MIDlet-Jar-Size: 46932
+MIDlet-Jar-URL: SS_estimator_ver1.1.jar
+MIDlet-Name: MobileApplication1
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
